@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\Makulatura\Makulatura\bin\Debug\net8.0\Makulatura.exe
+C:\Users\elsad\source\repos\Makulatura\Makulatura\bin\Debug\net8.0\Makulatura.deps.json
+C:\Users\elsad\source\repos\Makulatura\Makulatura\bin\Debug\net8.0\Makulatura.runtimeconfig.json
+C:\Users\elsad\source\repos\Makulatura\Makulatura\bin\Debug\net8.0\Makulatura.dll
+C:\Users\elsad\source\repos\Makulatura\Makulatura\bin\Debug\net8.0\Makulatura.pdb
+C:\Users\elsad\source\repos\Makulatura\Makulatura\obj\Debug\net8.0\Makulatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\Makulatura\Makulatura\obj\Debug\net8.0\Makulatura.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\Makulatura\Makulatura\obj\Debug\net8.0\Makulatura.AssemblyInfo.cs
+C:\Users\elsad\source\repos\Makulatura\Makulatura\obj\Debug\net8.0\Makulatura.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\Makulatura\Makulatura\obj\Debug\net8.0\Makulatura.dll
+C:\Users\elsad\source\repos\Makulatura\Makulatura\obj\Debug\net8.0\refint\Makulatura.dll
+C:\Users\elsad\source\repos\Makulatura\Makulatura\obj\Debug\net8.0\Makulatura.pdb
+C:\Users\elsad\source\repos\Makulatura\Makulatura\obj\Debug\net8.0\Makulatura.genruntimeconfig.cache
+C:\Users\elsad\source\repos\Makulatura\Makulatura\obj\Debug\net8.0\ref\Makulatura.dll
